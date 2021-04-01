@@ -10,7 +10,7 @@
 
 **This text will be bold**
 
-![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+![GitHub Logo](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png)
 
 [GitHub](http://github.com)
 
